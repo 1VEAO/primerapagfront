@@ -135,6 +135,7 @@
   text-transform: capitalize;
   font-family: "Open Sans";
   color: rgb(163, 153, 91);
+  margin-left: 1rem;
 }
 .main-site .first-child .works .cont-work_section {
   display: block;
@@ -160,6 +161,7 @@
 }
 .main-site .first-child .works .cont-work_section .works-section .word-description h1 {
   font-size: 2rem;
+  margin: 0;
 }
 .main-site .first-child .works .cont-work_section .works-section .word-description p {
   font-size: 1.3rem;
